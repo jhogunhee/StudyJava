@@ -1,0 +1,11 @@
+package chapter04;
+
+public class Sample07 {
+
+	public static void main(String[] args) {
+		// 3항 연산자
+		int number = 6;
+		String result = (number % 2) == 0 ? "even" : "odd";
+		System.out.println(result + number);
+	}
+}
