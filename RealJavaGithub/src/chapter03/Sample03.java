@@ -1,5 +1,9 @@
 package chapter03;
 
+/**
+ * @author rjsgm
+ * 
+ */
 public class Sample03 {
 	
 	/**
