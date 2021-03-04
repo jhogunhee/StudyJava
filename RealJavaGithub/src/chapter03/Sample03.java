@@ -10,6 +10,7 @@ public class Sample03 {
 	 * 자료형에 대해서 학습합니다.
 	 * @param args
 	 */
+	
 	public static void main(String[] args) {
 		byte a1 = -128; // byte 최솟값
 		byte a2 = 127;  // byte 최댓값
